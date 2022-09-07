@@ -1,0 +1,19 @@
+{
+    "name": "annagrad/contact",
+    "description": "Annagrad Contact",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Anna Yee Win Soe",
+            "email": "sunayaka2@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "Annagrad\\Contact\\": "src/"
+        }
+    }
+}
